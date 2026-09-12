@@ -40,6 +40,14 @@ Here is a log of my journey so far:
 * [Day 13 - Student Result System](./Day%2013%20-%20Student%20result%20system/): Built a student result system using **callback functions**
 * [Day 14 - Reverse String](./Day%2014%20-%20Reverse%20string/): Built a reverse string program using **recursion**
 * [Day 15 - Live Resume Builder](./Day%2015%20-%20Live%20resume%20builder/): Built a live resume builder using **DOM manipulation** and input validation.
+* [Day 16 - Student Management System (Dashboard)](./Day%2016%20to%2027%20-%20Student%20management%20%20system/day-16.html): Designed and built the main dashboard for the Student Management System with navigation cards linking to all modules.
+* [Day 17 - Student Management System (Profile)](./Day%2016%20to%2027%20-%20Student%20management%20%20system/profile/profile.html): Built the **Profile** module — an editable student profile page using **DOM manipulation**, `querySelector`, and **form event handling** (`submit`, `preventDefault`).
+* [Day 18 - Student Management System (Courses)](./Day%2016%20to%2027%20-%20Student%20management%20%20system/courses/courses.html): Built the **Courses** module — displaying enrolled courses with styled cards.
+* [Day 19 - Student Management System (Schedule)](./Day%2016%20to%2027%20-%20Student%20management%20%20system/schedule/schedule.html): Built the **Schedule** module — a weekly class timetable layout.
+* [Day 20 - Student Management System (Attendance)](./Day%2016%20to%2027%20-%20Student%20management%20%20system/attendance/attendance.html): Built the **Attendance** module — tracking attendance records per subject.
+* [Day 21 - Student Management System (Assignments)](./Day%2016%20to%2027%20-%20Student%20management%20%20system/assignments/assignments.html): Built the **Assignments** module — listing pending and submitted assignments.
+* [Day 22 - Student Management System (Grades & Results)](./Day%2016%20to%2027%20-%20Student%20management%20%20system/grades-results/grades-results.html): Built the **Grades & Results** module — displaying subject-wise marks, grades, and overall GPA summary.
+* [Day 23 to 27 - Student Management System (Profile — Refinement)](./Day%2016%20to%2027%20-%20Student%20management%20%20system/profile/profile.html): Wrote the **Profile JS** (`profile.js`) to handle editable fields with live DOM updates, and refined the Profile page's **HTML structure** and **CSS styling** for a polished look.
 
 ## 💻 How to Run the Code
 
