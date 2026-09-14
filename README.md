@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Progress](https://img.shields.io/badge/Days%20Completed-27-brightgreen?style=for-the-badge&logo=javascript&logoColor=white)
+![Progress](https://img.shields.io/badge/Days%20Completed-28-brightgreen?style=for-the-badge&logo=javascript&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
 
@@ -32,7 +32,7 @@ This repository documents my **JavaScript learning journey** — a personal comm
 |---|---|---|---|
 | Phase 1 | 1 – 5 | Core JS Fundamentals | ✅ Complete |
 | Phase 2 | 6 – 15 | Control Flow & Functions | ✅ Complete |
-| Phase 3 | 16 – 27 | DOM Manipulation & Projects | ✅ Complete |
+| Phase 3 | 16 – 28 | DOM Manipulation & Projects | ✅ Complete |
 | Phase 4 | 28+ | Advanced JS & Async | 🔜 Upcoming |
 | Phase 5 | TBD | APIs, Fetch & ES6+ | 🔜 Upcoming |
 | Phase 6 | TBD | Full Project Builds | 🔜 Upcoming |
@@ -86,20 +86,21 @@ Day X - Topic Name/
 
 ---
 
-### 🟢 Phase 3 — DOM Manipulation & Multi-Page Project (Days 16–27)
+### 🟢 Phase 3 — DOM Manipulation & Multi-Page Project (Days 16–28)
 
-> **🏫 Student Management System** — A full multi-page web app built incrementally over 12 days.
+> **🏫 Student Management System** — A full multi-page web app built incrementally over 13 days.
 
 | Day | Module | Key Concepts |
 |---|---|---|
-| [Day 16](./Day%2016%20to%2027%20-%20Student%20management%20%20system/day-16.html) | 🗂️ Dashboard | Project architecture, navigation cards, layout design |
-| [Day 17](./Day%2016%20to%2027%20-%20Student%20management%20%20system/profile/profile.html) | 👤 Profile | `querySelector`, form `submit`, `preventDefault`, editable fields |
-| [Day 18](./Day%2016%20to%2027%20-%20Student%20management%20%20system/courses/courses.html) | 📚 Courses | Styled course cards, dynamic content rendering |
-| [Day 19](./Day%2016%20to%2027%20-%20Student%20management%20%20system/schedule/schedule.html) | 🗓️ Schedule | Weekly timetable layout, CSS grid |
-| [Day 20](./Day%2016%20to%2027%20-%20Student%20management%20%20system/attendance/attendance.html) | ✅ Attendance | Attendance tracking, subject-wise records |
-| [Day 21](./Day%2016%20to%2027%20-%20Student%20management%20%20system/assignments/assignments.html) | 📝 Assignments | Pending vs. submitted state management |
-| [Day 22](./Day%2016%20to%2027%20-%20Student%20management%20%20system/grades-results/grades-results.html) | 📈 Grades & Results | Subject-wise marks, GPA calculation, summary display |
-| [Day 23–27](./Day%2016%20to%2027%20-%20Student%20management%20%20system/profile/profile.html) | 🎨 Profile Refinement | Live DOM updates via `profile.js`, HTML/CSS polish |
+| [Day 16](./Day%2016%20to%2028%20-%20Student%20management%20%20system/day-16.html) | 🗂️ Dashboard | Project architecture, navigation cards, layout design |
+| [Day 17](./Day%2016%20to%2028%20-%20Student%20management%20%20system/profile/profile.html) | 👤 Profile | `querySelector`, form `submit`, `preventDefault`, editable fields |
+| [Day 18](./Day%2016%20to%2028%20-%20Student%20management%20%20system/courses/courses.html) | 📚 Courses | Styled course cards, dynamic content rendering |
+| [Day 19](./Day%2016%20to%2028%20-%20Student%20management%20%20system/schedule/schedule.html) | 🗓️ Schedule | Weekly timetable layout, CSS grid |
+| [Day 20](./Day%2016%20to%2028%20-%20Student%20management%20%20system/attendance/attendance.html) | ✅ Attendance | Attendance tracking, subject-wise records |
+| [Day 21](./Day%2016%20to%2028%20-%20Student%20management%20%20system/assignments/assignments.html) | 📝 Assignments | Pending vs. submitted state management |
+| [Day 22](./Day%2016%20to%2028%20-%20Student%20management%20%20system/grades-results/grades-results.html) | 📈 Grades & Results | Subject-wise marks, GPA calculation, summary display |
+| [Day 23–27](./Day%2016%20to%2028%20-%20Student%20management%20%20system/profile/profile.html) | 🎨 Profile Refinement | Live DOM updates via `profile.js`, HTML/CSS polish |
+| [Day 28](./Day%2016%20to%2028%20-%20Student%20management%20%20system/courses/courses.html) | 📚 Courses — JS Complete | `querySelectorAll`, `forEach`, click events, popup/modal DOM toggling |
 
 ---
 
