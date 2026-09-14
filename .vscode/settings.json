@@ -1,9 +1,0 @@
-{
-    "emmet.useInlineCompletions": false,
-    "editor.quickSuggestions": {
-        
-        "other": "offWhenInlineCompletions",
-        "comments": "off",
-        "strings": "off"
-    }
-}
