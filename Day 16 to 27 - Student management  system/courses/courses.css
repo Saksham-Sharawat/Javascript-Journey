@@ -70,6 +70,7 @@ main {
     color: white;
     margin: 0.5em;
     transition: transform 0.2s ease;
+    cursor: pointer;
 }
 
 .card:hover {
@@ -77,12 +78,12 @@ main {
 }
 
 .course-code {
-    height: 10%;
-    font-size: 0.8rem;
+    height: 0%;
+    display: none;
 }
 
 .sub-name {
-    height: 70%;
+    height: 100%;
     font-size: 1.5rem;
     display: flex;
     align-items: center;
@@ -90,7 +91,60 @@ main {
 }
 
 .inst-name {
-    height: 20%;
-    font-size: 1rem;
-    text-align: end;
+    height: 0%;
+    display: none;
+}
+
+/* popup */
+
+.popup {
+    display: none;
+    position: fixed;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(5px);
+    align-items: center;
+    justify-content: center;
+}
+
+.popup-content {
+    position: relative;
+    width: 40%;
+    min-height: 15em;
+    padding: 2em;
+    box-sizing: border-box;
+
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 1em;
+
+    color: white;
+    text-align: center;
+}
+
+.popup-sub-name {
+    margin: 2em 0 1em;
+    font-size: 1.8rem;
+}
+
+.popup-course-code {
+    margin-bottom: 2em;
+}
+
+.popup-inst {
+    margin-bottom: 2em;
+}
+
+.close-button {
+    position: absolute;
+    top: 0.5em;
+    right: 0.7em;
+
+    background: none;
+    border: none;
+    color: white;
+    font-size: 2rem;
+    cursor: pointer;
 }
