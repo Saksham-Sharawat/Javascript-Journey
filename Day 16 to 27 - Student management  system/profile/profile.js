@@ -2,13 +2,6 @@ let button = document.querySelector('.edit-button');
 let form = document.querySelector('.edit-form');
 let display = document.querySelector('.display');
 
-form.style.display = "none";
-
-button.addEventListener ('click' , function () {
-    form.style.display = "flex";
-    display.style.display="none";
-})
-
 // name
 
 let name_input = document.querySelector('#name');
@@ -69,6 +62,13 @@ let display_city = document.querySelector('.city');
 
 let state_input = document.querySelector('#state');
 let display_state = document.querySelector('.state');
+
+form.style.display = "none";
+
+button.addEventListener ('click' , function () {
+    form.style.display = "flex";
+    display.style.display="none";
+})    
 
 
 form.addEventListener('submit' , function (event) {
