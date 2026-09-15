@@ -104,3 +104,14 @@ main {
     align-items: center;
     justify-content: space-between;
 }
+
+.status {
+    height: 1.2em;
+    width: 5em;
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 0.25em;
+    padding: 0.2em;
+    text-align: center;
+}
