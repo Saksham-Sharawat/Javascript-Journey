@@ -6,8 +6,7 @@
 body {
     width: 100vw;
     overflow-x: hidden;
-    /* background: linear-gradient( to bottom right , rgba(0, 0, 255, 0.5) 0% 40%, rgba(128, 0, 128, 0.5) 90% 100%); */
-    background-color: black;
+    background: linear-gradient( to bottom right , rgba(0, 0, 255, 0.5) 0% 40%, rgba(128, 0, 128, 0.5) 90% 100%);
 }
 
 a {
