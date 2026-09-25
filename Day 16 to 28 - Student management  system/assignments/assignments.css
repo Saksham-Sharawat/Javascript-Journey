@@ -78,6 +78,10 @@ main {
     padding-left: 0.75em;
 }
 
+#status-filter:focus {
+    outline: none;
+}
+
 #status-filter option {
     background-color: #333;
     color: white;
