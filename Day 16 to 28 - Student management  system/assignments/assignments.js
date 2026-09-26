@@ -1,3 +1,5 @@
+// status button of every card
+
 let status = document.querySelectorAll((".status"));
 
 status.forEach(function (status) {
@@ -11,4 +13,13 @@ status.forEach(function (status) {
         }
 
     });
+});
+
+// status filter dropdown
+
+let statusFilter = document.querySelector("#status-filter");
+
+statusFilter.addEventListener("change", function() {
+    let optionValue = statusFilter.value;
+    console.log(optionValue);
 });
