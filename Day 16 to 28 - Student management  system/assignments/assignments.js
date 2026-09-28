@@ -19,7 +19,9 @@ status.forEach(function (status) {
 
 let statusFilter = document.querySelector("#status-filter");
 
+let cards = document.querySelectorAll(".card");
+
 statusFilter.addEventListener("change", function() {
     let optionValue = statusFilter.value;
-    console.log(optionValue);
+    
 });
