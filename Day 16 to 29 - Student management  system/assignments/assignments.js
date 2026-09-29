@@ -24,4 +24,8 @@ let cards = document.querySelectorAll(".card");
 statusFilter.addEventListener("change", function() {
     let optionValue = statusFilter.value;
     
+    cards.forEach(function(card) {
+
+    });
+
 });
