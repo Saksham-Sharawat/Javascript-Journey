@@ -26,6 +26,7 @@ statusFilter.addEventListener("change", function() {
     
     cards.forEach(function(card) {
 
+        
     });
 
 });
